@@ -50,7 +50,7 @@
             <!-- layout-wrap -->
            <div class="layout-wrap">
                 <!-- preload -->
-                <div id="preload" class="preload-container">
+                <div id="preload" class="preload-container hidden">
                     <div class="preloading">
                         <span></span>
                     </div>
