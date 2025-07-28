@@ -85,7 +85,7 @@ class BuildMyPCController extends Controller
             // Send email to customer
             Mail::send('emails.invoice_customer', $data, function($message) use ($pdfContent, $data) {
                 $message->to($data['customerEmail'])
-                    ->subject('Your Invoice from Udarata Computers - ' . $data['invoiceNumber'])
+                    ->subject('Your Invoice from CoreX Computers - ' . $data['invoiceNumber'])
                     ->attachData($pdfContent, $data['invoiceNumber'] . '.pdf', [
                         'mime' => 'application/pdf',
                     ]);

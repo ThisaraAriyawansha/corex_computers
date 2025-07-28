@@ -67,11 +67,11 @@
             </div>
             
             <p>Please find the attached PDF for the complete invoice details.</p>
-            <p>Best regards,<br>Udarata Computers System</p>
+            <p>Best regards,<br>CoreX Computers System</p>
         </div>
         <div class="footer">
-            <p>Udarata Computers - Computer Arcade & Technologies (PVT) Ltd</p>
-            <p>+94 7074 66666 | www.udaratacomputers.lk</p>
+            <p>CoreX Computers - Computer Arcade & Technologies (PVT) Ltd</p>
+            <p>+94 5454 78907 | www.corexcomputers.lk</p>
         </div>
     </div>
 </body>

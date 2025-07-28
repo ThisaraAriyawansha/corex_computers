@@ -112,7 +112,7 @@
     <div class="invoice-header">
         <div class="logo">
             <div class="logo-text">
-                <p style="font-size: 20px; font-weight: bold; margin: 0;">UDARATA COMPUTERS</p>
+                <p style="font-size: 20px; font-weight: bold; margin: 0;">CoreX COMPUTERS</p>
                 <p style="margin: 0;">Computer Arcade & Technologies (PVT) Ltd</p>
             </div>
         </div>
@@ -185,18 +185,18 @@
             <p style="font-weight: 600; margin: 0;">Warranty Period: 2 Years</p>
             <p style="font-weight: 600; margin-top: 10px;">Payment Information:</p>
             <p style="margin: 0;">Bank: BOC</p>
-            <p style="margin: 0;">Account Name: Udarata Computers</p>
-            <p style="margin: 0;">Account Number: XXXX-XXXX-XXXX-1234</p>
-            <p style="margin: 0;">IFSC Code: GLOB0001234</p>
+            <p style="margin: 0;">Account Name: CoreX Computers</p>
+            <p style="margin: 0;">Account Number: XXXX-XXXX-XXXX-5464</p>
+            <p style="margin: 0;">IFSC Code: GLOB0005656</p>
         </div>
         <div>
             <p style="font-weight: 600; margin: 0;">Notes:</p>
-            <p style="color: #6b7280; text-align: justify;">Thank you for your business. Please make payment by the due date. For any queries regarding this invoice, please contact our support team at support@udaratacomputers.com or call +94 (77) 987-6543.</p>
+            <p style="color: #6b7280; text-align: justify;">Thank you for your business. Please make payment by the due date. For any queries regarding this invoice, please contact our support team at support@corexcomputers.com or call +94 (77) 543-5656.</p>
         </div>
     </div>
 
     <div class="footer">
-        <p style="margin: 0;">+94 7074 66666 | www.udaratacomputers.lk | udaratacomputers@gmail.com</p>
+        <p style="margin: 0;">+94 4343 66665 | www.corexcomputers.lk | corexcomputers@gmail.com</p>
     </div>
 </body>
 </html>

@@ -209,23 +209,23 @@
         <p class="total-amount">Total Amount: Rs.{{ number_format($totalAmount, 2) }}</p>
 
         <p>Thank you for shopping with us!</p>
-        <p>If you have any questions or need assistance, don't hesitate to <a href="mailto:support@udaratacomputers.com" style="color: #003366; text-decoration: none;">contact our support team</a> anytime.</p>
+        <p>If you have any questions or need assistance, don't hesitate to <a href="mailto:support@corexcomputers.com" style="color: #003366; text-decoration: none;">contact our support team</a> anytime.</p>
 
         <!-- Call to Action Button -->
-        <a href="https://udaratacomputers.radontower.com/" class="cta-button">Visit Our Website</a>
+        <a href="https://corexcomputers.com/" class="cta-button">Visit Our Website</a>
     </div>
 
     <!-- Additional Info Section -->
     <div class="additional-info">
         <h3>Next Steps</h3>
         <p><strong>Account Activation:</strong> Your account is now active! You can log in anytime using your credentials. If you haven't already, please complete your profile on our website.</p>
-        <p><strong>Explore Our Products:</strong> Check out our latest products and services on <a href="https://udaratacomputers.radontower.com" style="color: #003366; text-decoration: none;">Udarata Computers</a>.</p>
-        <p><strong>Need Help?</strong> Our dedicated support team is available for any questions. <a href="mailto:support@udaratacomputers.com" style="color: #003366; text-decoration: none;">Contact Support</a></p>
+        <p><strong>Explore Our Products:</strong> Check out our latest products and services on <a href="#" style="color: #003366; text-decoration: none;">CoreX Computers</a>.</p>
+        <p><strong>Need Help?</strong> Our dedicated support team is available for any questions. <a href="mailto:support@corexcomputers.com" style="color: #003366; text-decoration: none;">Contact Support</a></p>
     </div>
 
     <!-- Footer Section -->
     <div class="email-footer">
-        <p>&copy; 2025 All Rights Reserved | Udarata Computers | Designed & Developed by Silicon Radon Networks (Pvt) Ltd.</p>
+        <p>&copy; 2025 All Rights Reserved | CoreX Computers</p>
     </div>
 </div>
 

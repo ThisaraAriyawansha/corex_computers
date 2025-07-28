@@ -47,9 +47,9 @@
                     <!-- Footer -->
                     <tr>
                         <td style="background-color: #f8f9fa; padding: 20px; text-align: center; font-size: 14px; color: #666;">
-                            <p style="margin: 0;">Udarata Computers</p>
+                            <p style="margin: 0;">CoreX Computers</p>
 
-                            <p style="margin: 10px 0;">&copy; {{ date('Y') }} All Rights Reserved | Udarata Computers | Designed & Developed by Silicon Radon Networks (Pvt) Ltd.</p>
+                            <p style="margin: 10px 0;">&copy; {{ date('Y') }} All Rights Reserved | CoreX Computers.</p>
                         </td>
                     </tr>
                 </table>
