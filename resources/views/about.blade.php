@@ -5,11 +5,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Udarata Computers | Best Computers for you</title>
+    <title>CoreX Computers | Best Computers for you</title>
     <meta name="robots" content="index, follow" />
-    <meta name="description" content="Udarata Computers - Best Computers for you">
+    <meta name="description" content="CoreX Computers offer the best computers available at the market">
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.ico" />
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/X_logo.jpg" />
     <!-- CSS
     ============================================ -->
     <script src="assets/js/tailwind-cdn.js"></script>
@@ -46,11 +46,12 @@
                                     <span>Next generation tech </span>
                                     solutions & support
                                 </h2>
-                                <p>In our store you will find an array of hardware such as Desktop Computers, Laptops, Gaming Laptops, Branded Computer Accessories for the best price in Sri Lanka , backed up by friendly, helpful and expert staff, Giving you the very best of computers , with a focus on quality , reliability , price, brand.</p>
+                                <p>At CoreX Computers, located in Matara, you will find a wide range of hardware including Desktop Computers, Laptops, Gaming Laptops, and Branded Computer Accessories — all at the best prices in Sri Lanka. Our friendly, knowledgeable, and professional staff are committed to providing you with top-quality products focused on reliability, performance, and trusted brands.</p>
                                 <p class="max-[390px]:hidden">
-                                    Having built up a very solid and stable reputation for our quality products and services since 2021, Udarata Computers is the perfect choice, as we offer unrivalled expertise for all your IT Solutions and we are proud to have assisted thousands of customers since opening our first store back in 2021.
+                                    Since our establishment in 2021, CoreX Computers has earned a solid reputation for delivering reliable products and exceptional customer service. With unmatched expertise in IT solutions, we are proud to have served thousands of satisfied customers from our Matara store.
                                 </p>
                             </div>
+
                         </div>
                     </div>
                 </div>
@@ -69,7 +70,7 @@
                             </div>
                             <div class="feature-content">
                                 <h4 class="title">Free Shipping</h4>
-                                <span class="sub-title">Available in Kandy</span>
+                                <span class="sub-title">Available in Matara</span>
                             </div>
                         </div>
                     </div>
@@ -110,7 +111,7 @@
                     <div class="col-12">
                         <div class="section-title text-center m-0">
                             <h2 class="title text-white">Client Feedback</h2>
-                            <p class="text-white">This is what our clients had to say about our services</p>
+                            <p class="text-white">Here’s what our clients say about CoreX Computers – Matara</p>
                         </div>
                     </div>
                 </div>
@@ -122,15 +123,14 @@
                                 <div class="swiper-slide">
                                     <div class="testi-inner">
                                         <div class="testi-content">
-                                            <p class="text-white text-justify">I was looking for a high-performance mechanical keyboard for my gaming setup, and Udarata Computers had an amazing selection. The staff was super helpful in explaining the features, and I couldn’t be happier with my purchase. Definitely a go-to place for gamers!
-                                            </p>
+                                            <p class="text-white text-justify">I found the perfect gaming laptop at CoreX Computers in Matara. The staff knew exactly what I needed and gave great advice on performance and cooling. I’m more than satisfied with the quality and service!</p>
                                         </div>
                                         <div class="testi-author">
                                             <div class="author-image hidden">
                                                 <img class="img-responsive" src="assets/images/testimonial/1.png" alt="">
                                             </div>
                                             <div class="author-name">
-                                                <h4 class="name p-0 m-0">Dasun Chanaka<span class="text-white">Client</span></h4>
+                                                <h4 class="name p-0 m-0">Ravindu Jayasanka<span class="text-white">Client</span></h4>
                                             </div>
                                         </div>
                                     </div>
@@ -138,15 +138,14 @@
                                 <div class="swiper-slide">
                                     <div class="testi-inner">
                                         <div class="testi-content">
-                                            <p class="text-white text-justify">Udarata Computers made buying a laptop so easy. I had a tight budget and specific requirements for work, and they guided me to the perfect choice. The laptop has been working flawlessly, and I’m so grateful for their honest and professional advice
-                                            </p>
+                                            <p class="text-white text-justify">I needed a reliable desktop for my online classes and CoreX Computers delivered! They recommended the best build for my needs, and the price was unbeatable. Highly recommend their service and honesty.</p>
                                         </div>
                                         <div class="testi-author">
                                             <div class="author-image hidden">
                                                 <img class="img-responsive" src="assets/images/testimonial/1.png" alt="">
                                             </div>
                                             <div class="author-name">
-                                                <h4 class="name p-0 m-0">Kasun Weerawardhana<span class="text-white">Client</span></h4>
+                                                <h4 class="name p-0 m-0">Nethmi Perera<span class="text-white">Client</span></h4>
                                             </div>
                                         </div>
                                     </div>
@@ -154,15 +153,14 @@
                                 <div class="swiper-slide">
                                     <div class="testi-inner">
                                         <div class="testi-content">
-                                            <p class="text-white text-justify">If you’re a gamer, Udarata Computers is a paradise! I recently got a top-tier graphics card from them, and their prices were unbeatable. The team even gave me tips for installation. Highly recommend this shop to any gaming enthusiast
-                                            </p>
+                                            <p class="text-white text-justify">I got my entire PC upgraded at CoreX Computers and the improvement is amazing. Fast service, genuine components, and they even cleaned my rig. Best experience I’ve had with any computer shop in Matara!</p>
                                         </div>
                                         <div class="testi-author">
                                             <div class="author-image hidden">
                                                 <img class="img-responsive" src="assets/images/testimonial/1.png" alt="">
                                             </div>
                                             <div class="author-name">
-                                                <h4 class="name p-0 m-0">Saman Ekanayaka<span class="text-white">Client</span></h4>
+                                                <h4 class="name p-0 m-0">Tharindu Madushan<span class="text-white">Client</span></h4>
                                             </div>
                                         </div>
                                     </div>
@@ -170,15 +168,14 @@
                                 <div class="swiper-slide">
                                     <div class="testi-inner">
                                         <div class="testi-content">
-                                            <p class="text-white text-justify">I ordered a PC upgrade from Udarata Computers, and the entire process was smooth from start to finish. The delivery was fast, the components were original, and my computer now runs faster than ever. Their expertise really shows!
-                                            </p>
+                                            <p class="text-white text-justify">CoreX helped me build a custom PC for graphic design. They listened to my needs and put together a powerful setup within budget. I’ve already recommended them to my friends!</p>
                                         </div>
                                         <div class="testi-author">
                                             <div class="author-image hidden">
                                                 <img class="img-responsive" src="assets/images/testimonial/1.png" alt="">
                                             </div>
                                             <div class="author-name">
-                                                <h4 class="name p-0 m-0">Kalindu Sachintha<span class="text-white">Client</span></h4>
+                                                <h4 class="name p-0 m-0">Isuri Fernando<span class="text-white">Client</span></h4>
                                             </div>
                                         </div>
                                     </div>
@@ -186,15 +183,14 @@
                                 <div class="swiper-slide">
                                     <div class="testi-inner">
                                         <div class="testi-content">
-                                            <p class="text-white text-justify">Shopping at Udarata Computers was an excellent experience. I wanted a new monitor for both work and gaming, and the staff went above and beyond to help me find the perfect one. The quality and service exceeded my expectations!
-                                            </p>
+                                            <p class="text-white text-justify">Fantastic service from CoreX Computers! I purchased a new monitor and keyboard set — excellent quality and very affordable. The team in Matara really knows their tech. Five stars!</p>
                                         </div>
                                         <div class="testi-author">
                                             <div class="author-image hidden">
                                                 <img class="img-responsive" src="assets/images/testimonial/1.png" alt="">
                                             </div>
                                             <div class="author-name">
-                                                <h4 class="name p-0 m-0">Kamal Fernando<span class="text-white">Client</span></h4>
+                                                <h4 class="name p-0 m-0">Janith Senarath<span class="text-white">Client</span></h4>
                                             </div>
                                         </div>
                                     </div>
@@ -210,6 +206,7 @@
                 </div>
             </div>
         </div>
+
         <!-- Blog area start from here -->
         <div class="main-blog-area py-[50px] light-blue-bg">
                 <div class="container">

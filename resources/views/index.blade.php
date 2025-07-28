@@ -60,7 +60,7 @@
                 playsinline
                 class="h-full w-full object-cover dark-blue-bg"
                 style="background: url('assets/videos/video-thumb.png') no-repeat; background-size: cover;">
-                <source src="assets/videos/Predator Helios Neo 16 _ AI Ready Gaming Laptop.mp4" type="video/mp4">
+                <source src="assets/videos/18 - RAISE YOUR GAME. CARRY YOUR SQUAD.  _ ROG.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video>
         </div>
@@ -525,14 +525,14 @@
                         <div class="col-xl-6 col-lg-6 max-[992px]:mb-[30px]">
                             <div class="single-feature-content h-full">
                                 <div class="feature-image max-[992px]:pb-[10px]">
-                                    <img src="assets/images/feature-image/1.webp" alt="" class="h-full">
+                                    <img src="assets/images/feature-image/e2509820e3d308e6c97cb663f1c2357bb.jpg" alt="" class="h-full">
                                 </div>
                             </div>
                         </div>
                         <div class="col-xl-6 col-lg-6">
                             <div class="feature-right-content">
                                 <div class="image-side">
-                                    <img src="assets/images/feature-image/2.webp" alt="" class="h-full">
+                                    <img src="assets/images/feature-image/desktop-wallpaper-3d-mobile-broken-motherboard.jpg" alt="" class="h-full">
                                     <button title="Add To Cart" class="action add-to-cart " ><i
                                             class="pe-7s-shopbag"></i></button>
                                 </div>
@@ -557,7 +557,7 @@
                             </div>
                             <div class="feature-right-content mt-30px" style="margin-bottom:5px">
                                 <div class="image-side">
-                                    <img src="assets/images/feature-image/3.webp" alt="" class="h-full">
+                                    <img src="assets/images/feature-image/republic-of-gamers-motherboard-red-background-logo-4k-sd-1280x2120.jpg" alt="" class="h-full">
                                     <button title="Add To Cart" class="action add-to-cart " ><i
                                             class="pe-7s-shopbag"></i></button>
                                 </div>

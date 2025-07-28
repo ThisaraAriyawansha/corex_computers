@@ -37,8 +37,7 @@
     <link rel="stylesheet" href="{{ asset('icon/style.css')}}">
 
     <!-- Favicon and Touch Icons  -->
-    <link rel="shortcut icon" href="{{ asset('images/udarata_logo.png')}}">
-    <link rel="apple-touch-icon-precomposed" href="{{ asset('images/logo/udarata_logo.png')}}">
+    <link rel="shortcut icon" href="{{ asset('images/X_logo.jpg')}}">
 
 </head>
 
@@ -62,7 +61,7 @@
                 <div class="section-menu-left">
                 <div class="box-logo">
                         <a href="#" id="site-logo-inner">
-                            <img class="logo" id="logo_header" alt="" src="{{ asset('images/udarata_logo.png')}}" data-light="{{ asset('images/udarata_logo.png')}}" data-dark="{{ asset('images/logo/logo.png')}}" >
+                            <img class="logo" id="logo_header" alt="" src="{{ asset('images/X_logo.jpg')}}" data-light="{{ asset('images/X_logo.jpg')}}" data-dark="{{ asset('images/X_logo-r.png')}}" >
                         </a>
                         <div class="button-show-hide">
                             <i class="icon-menu-left"></i>

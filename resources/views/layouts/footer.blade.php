@@ -2,7 +2,7 @@
                         <!-- /main-content-wrap -->
                         <!-- bottom-page -->
                         <div class="bottom-page text-center">
-                            <div class="body-text">2025 © All Rights Reserved | Udarata Computers | Designed and Developed by Silicon Radon Networks (Pvt) Ltd</div>
+                            <div class="body-text">2025 © All Rights Reserved | CoreX  Computers</div>
                         </div>
 
                         <!-- /bottom-page -->

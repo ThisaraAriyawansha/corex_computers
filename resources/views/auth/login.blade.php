@@ -82,7 +82,7 @@
                         </div> --}}
                     </div>
                 </div>
-                <div class="text-tiny">2025 © All Rights Reserved | Udarata Computers (Pvt) Ltd | Designed and Developed by Silicon Radon Networks (Pvt) Ltd</div>
+                <div class="text-tiny">2025 © All Rights Reserved | CoreX  Computers (Pvt) Ltd</div>
             </div>
         </div>
         <!-- /#page -->

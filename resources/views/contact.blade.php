@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Udarata Computers | Best Computers for you</title>
+    <title>CoreX Computers | Best Computers for you</title>
     <meta name="robots" content="index, follow" />
-    <meta name="description" content="Udarata Computers - Best Computers for you">
-    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.ico" />
-    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png" />
+    <meta name="description" content="CoreX Computers offer the best computers available at the market">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/X_logo.jpg" />
+
     <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/css/font.awesome.css" />
@@ -94,7 +94,7 @@
                                     </div>
                                     <div class="info-box">
                                         <h5 class="title">Address</h5>
-                                        <p>Udarata Computers, <br> No. 17/B, <br> Kotugodella Veediya, <br> Kandy</p>
+                                        <p>CoreX Computers, <br> No. 45/A, <br> Anagarika Dharmapala Mawatha, <br> Matara</p>
                                     </div>
                                 </div>
                                 <div class="single-contact">
@@ -103,8 +103,8 @@
                                     </div>
                                     <div class="info-box">
                                         <h5 class="title">Phone No</h5>
-                                        <p><a href="tel:0707466666">0707466666</a></p>
-                                        <p><a href="tel:+94812267599">0812267599</a></p>
+                                        <p><a href="tel:0765544567">0765544567</a></p>
+                                        <p><a href="tel:+94412223454">0412223454</a></p>
                                     </div>
                                 </div>
                                 <div class="single-contact m-0">
@@ -113,25 +113,34 @@
                                     </div>
                                     <div class="info-box">
                                         <h5 class="title">Email</h5>
-                                        <p><a href="mailto:udaratacomputers@gmail.com">udaratacomputers@gmail.com</a></p>
+                                        <p><a href="mailto:corexcomputers@gmail.com">corexcomputers@gmail.com</a></p>
                                     </div>
                                 </div>
                             </div>
                         </div>
+
                     </div>
                 </div>
             </div>
         </div>
-        <div class="contact-map">
-            <div id="mapid">
-                <div class="mapouter">
-                    <div class="gmap_canvas">
-                        <iframe id="gmap_canvas" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.785451489463!2d80.5567413!3d7.265240299999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae369a1882181b9%3A0xadc8a89433ddd5a4!2zVWRhcmF0YSBDb21wdXRlcnMgKOC2i-C2qeC2u-C2pyBDb21wdXRlcnMp!5e0!3m2!1sen!2slk!4v1738133155679!5m2!1sen!2slk"></iframe>
-                        <a href="https://sites.google.com/view/maps-api-v2/mapv2"></a>
+            <div class="contact-map">
+                <div id="mapid">
+                    <div class="mapouter">
+                        <div class="gmap_canvas">
+                            <iframe id="gmap_canvas" 
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.1173434426637!2d80.54642697413173!3d5.948566929857624!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae137c55c2bb4c5%3A0x49fd7e3a36b85b9e!2sMatara!5e0!3m2!1sen!2slk!4v1722000000000!5m2!1sen!2slk" 
+                                width="100%" 
+                                height="450" 
+                                style="border:0;" 
+                                allowfullscreen="" 
+                                loading="lazy" 
+                                referrerpolicy="no-referrer-when-downgrade">
+                            </iframe>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
+
         <!-- Custom Alert Box -->
         <div class="custom-alert" id="custom-alert">
             <span class="close-btn" id="close-alert">&times;</span>
