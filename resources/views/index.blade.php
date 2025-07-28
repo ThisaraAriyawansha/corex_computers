@@ -6,11 +6,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Udarata Computers | Best Computers for you</title>
+    <title>CoreX Computers | Best Computers for you</title>
     <meta name="robots" content="index, follow" />
-    <meta name="description" content="Udarata Computers offer the best computers available at the market">
+    <meta name="description" content="CoreX Computers offer the best computers available at the market">
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png" />
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/X_logo.jpg" />
     <!-- CSS
     ============================================ -->
     <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
@@ -60,7 +60,7 @@
                 playsinline
                 class="h-full w-full object-cover dark-blue-bg"
                 style="background: url('assets/videos/video-thumb.png') no-repeat; background-size: cover;">
-                <source src="assets/videos/lap_video.mp4" type="video/mp4">
+                <source src="assets/videos/Predator Helios Neo 16 _ AI Ready Gaming Laptop.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video>
         </div>
@@ -80,7 +80,7 @@
                                 <div class="row  h-[85dvh]">
                                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 align-self-center sm-center-view">
                                         <div class="hero-slide-content slider-animated-1">
-                                            <span class="category">Welcome To Udarata Computers</span>
+                                            <span class="category">Welcome To CoreX Computers</span>
                                             <h2 class="title-1 max-[575px]:text-center">Computers <br> Accessories & <br> Gaming Products </h2>
                                             <a href="{{ route('product.category', ['sort' => 'name_asc', 'filter' => 'ALL']) }}" class="btn btn-primary text-capitalize">Shop All Devices</a>
                                         </div>
@@ -101,7 +101,7 @@
                                 <div class="row h-100">
                                     <div class="col-xl-6 col-lg-6 col-md-6 col-sm-6 align-self-center sm-center-view">
                                         <div class="hero-slide-content slider-animated-1">
-                                            <span class="category">Welcome To Udarata Computers</span>
+                                            <span class="category">Welcome To CoreX Computers</span>
                                             <h2 class="title-1">Computers <br> Accessories & <br> Gaming Products </h2>
                                             <a href="{{ route('product.category', ['sort' => 'name_asc', 'filter' => 'ALL']) }}" class="btn btn-primary text-capitalize">Shop All Devices</a>
                                         </div>

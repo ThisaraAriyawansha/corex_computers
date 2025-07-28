@@ -6,7 +6,7 @@
                 <div class="grid xl:grid-cols-4">
                     <div class="footer-logo flex max-xl:justify-center items-center">
                         <a href="{{ route('home')}}">
-                            <img src="assets/images/logo/footer-logo.png" alt="" class="h-[200px] w-full object-contain max-xl:h-[100px] object-contain">
+                            <img src="assets/images/logo/X_logo-r.png" alt="" class="h-[200px] w-full object-contain max-xl:h-[100px] object-contain">
                         </a>
                     </div>
                     <div class="mb-lm-30px xl:pl-6">
@@ -61,37 +61,37 @@
                                     <strong>
                                         Address:
                                     </strong>
-                                    Udarata Computers,
-                                    No. 17/B,
-                                    Kotugodella Veediya,
-                                    Kandy.
+                                    CoreX Computers,
+                                    No. 12/B,
+                                    Galle Road,
+                                    Matara.
                                 </p>
                                 <p class="phone text-white text-sm">
                                     <strong>Phone:</strong>
-                                    <a href="tel:0707466666" class=" text-white"> 0707466666</a>
+                                    <a href="tel:0769417154" class=" text-white"> 0769417154</a>
                                 </p>
                                 <p class="phone text-white text-sm hidden">
                                     <strong>Phone:</strong>
-                                    <a href="tel:+94812577112" class=" text-white"> +94 812 577 112</a>
+                                    <a href="tel:+94456533121" class=" text-white"> +94 456 533 121</a>
                                 </p>
                                 <p class="mail text-white text-sm">
                                     <strong>Email:</strong>
-                                    <a href="mailto:udaratacomputers@gmail.com" class=" text-white"> udaratacomputers@gmail.com</a>
+                                    <a href="mailto:coreXcomputers@gmail.com" class=" text-white"> coreXcomputers@gmail.com</a>
                                 </p>
                             </div>
                             <ul class="flex gap-2 mt-3 justify-end">
                                 <li class="w-8 hover:scale-105 transition-all">
-                                    <a href="https://www.facebook.com/Udarata.Computers" rel="noopener noreferrer">
+                                    <a href="#" rel="noopener noreferrer">
                                         <img src="assets/images/icons/fb.png" alt="" class="w-8">
                                     </a>
                                 </li>
                                 <li class="w-8 hover:scale-105 transition-all">
-                                    <a href="https://www.instagram.com/udarata_computers/" rel="noopener noreferrer">
+                                    <a href="#" rel="noopener noreferrer">
                                         <img src="assets/images/icons/insta.png" alt="" class="w-8">
                                     </a>
                                 </li>
                                 <li class="w-8 hover:scale-105 transition-all">
-                                    <a href="https://www.tiktok.com/@udaratacomputers" rel="noopener noreferrer">
+                                    <a href="#" rel="noopener noreferrer">
                                         <img src="assets/images/icons/tk.png" alt="" class="w-8">
                                     </a>
                                 </li>
@@ -102,17 +102,17 @@
                     <div class="mb-lm-30px xl:pl-6 max-xl:mt-4 flex flex-col justify-center items-center hidden">
                         <ul class="flex gap-2 mt-3 justify-end">
                             <li class="w-8 hover:scale-105 transition-all">
-                                <a href="https://www.facebook.com/Udarata.Computers" rel="noopener noreferrer">
+                                <a href="#" rel="noopener noreferrer">
                                     <img src="assets/images/icons/fb.png" alt="" class="w-8">
                                 </a>
                             </li>
                             <li class="w-8 hover:scale-105 transition-all">
-                                <a href="https://www.instagram.com/udarata_computers/" rel="noopener noreferrer">
+                                <a href="#" rel="noopener noreferrer">
                                     <img src="assets/images/icons/insta.png" alt="" class="w-8">
                                 </a>
                             </li>
                             <li class="w-8 hover:scale-105 transition-all">
-                                <a href="https://www.tiktok.com/@udaratacomputers" rel="noopener noreferrer">
+                                <a href="#" rel="noopener noreferrer">
                                     <img src="assets/images/icons/tk.png" alt="" class="w-8">
                                 </a>
                             </li>
@@ -125,7 +125,7 @@
         <div class="footer-bottom dark-blue-bg border-t border-[#aaa]">
             <div class="container text-white">
                 <div class="">
-                    <p class="w-full text-center">2025 © All Rights Reserved | Udarata Computers | Designed & Developed by Silicon Radon Networks (Pvt) Ltd.</p>
+                    <p class="w-full text-center">2025 © All Rights Reserved | CoreX Computers </p>
                 </div>
             </div>
         </div>
